@@ -33,6 +33,7 @@ List your 10 actual queries as business questions — this doubles as your KPI l
 ## Dashboard
 Describe your 5-page Power BI report structure, e.g.:
 - Dashboard Interaction <a href="https://github.com/DarshChoudhary-09/Ola-Ride-Booking-Analysis/blob/main/Ola%20Project.pbix">View dashboard</a>
+Dashboard Interaction PDF <a href="https://github.com/DarshChoudhary-09/Ola-Ride-Booking-Analysis/blob/main/Ola%20Project.pdf">View dashboard PDF</a>
 
 - Overview page (trend line, status breakdown, KPI cards)
 - Vehicle type breakdown
