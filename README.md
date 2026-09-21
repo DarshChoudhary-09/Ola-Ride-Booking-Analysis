@@ -28,7 +28,7 @@ List your 10 actual queries as business questions — this doubles as your KPI l
 8. Average customer rating per vehicle type
 9. Total booking value of successful rides
 10.Incomplete rides with reasons
-- SQL <a href="https://github.com/DarshChoudhary-09/Ola-Ride-Booking-Analysis/blob/main/Ola%20SQL.sql">SQL Query</a>
+-  <a href="https://github.com/DarshChoudhary-09/Ola-Ride-Booking-Analysis/blob/main/Ola%20SQL.sql">SQL Query</a>
 
 ## Dashboard
 Describe your 5-page Power BI report structure, e.g.:
