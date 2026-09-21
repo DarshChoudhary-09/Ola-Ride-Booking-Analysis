@@ -1,5 +1,4 @@
-# Title
-Ola Ride Booking Analysis — Excel, SQL & Power BI.
+# Ola Ride Booking Analysis — Excel, SQL & Power BI.
 
 ## Project Objective
 Explain the goal: analyze 100K+ Ola ride bookings to understand booking success/cancellation patterns, revenue, vehicle performance, and customer/driver satisfaction — moving from raw, messy data to a clean, query-ready dataset and an interactive dashboard.
